@@ -1,6 +1,6 @@
 #ЧИЧИБИ
 
-1. changing files
-2. comotting files
-3. pushing to the server
-. 
+1. Cats arte clever
+2. Cats are good
+3. Their fur is perfect
+4. 4. But meowing is sometimwes is stupid
