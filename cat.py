@@ -6,3 +6,5 @@ if len (cat) >= 1:
 else:
     print ('NOTHING')
 
+dict33 = {'table', 'cat', 'wall'}
+print (dict33)
